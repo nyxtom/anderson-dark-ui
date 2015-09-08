@@ -1,0 +1,11 @@
+{
+  "name": "anderson-dark-ui",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Wes Anderson Dark UI Theme for Atom",
+  "license": "MIT",
+  "repository": "https://github.com/nyxtom/anderson-dark-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
